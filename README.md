@@ -1,1 +1,3 @@
-# End to End Projects
+# End to End Project
+# Project Overview: Prediction and Prevention of Financial Fraud
+In this project, we're tackling the challenge of detecting fraudulent transactions within a huge dataset containing over 6362620 financial records.Agenda is to build a machine learning model that can learn the patterns of risky transactions and flag them in real-time. Starting by getting to know the data, then train and test the model to make sure it's up to the mark. Ultimate task is to building a model and using the insights we discover to create a straightforward, actionable plan that the company can use to better protect its customers and its finances.
